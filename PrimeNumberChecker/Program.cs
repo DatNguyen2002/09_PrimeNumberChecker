@@ -8,6 +8,17 @@ namespace PrimeNumberChecker
 {
     internal class Program
     {
+        //public static bool Prime(int number)
+        //{
+        //    if (number == 0) return false;
+        //    for (int i = 2; i<=Math.Sqrt(number); i++)
+        //    {
+        //        if (number % i == 0)
+        //            return false;
+        //    }
+        //    return true;
+        //}
+
         static void Main(string[] args)
         {
             int number = -1;
